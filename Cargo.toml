@@ -1,0 +1,9 @@
+[package]
+name = "as_storage"
+version = "0.1.0"
+authors = ["Thom Chiovoloni <tchiovoloni@mozilla.com>"]
+lib = "as_storage"
+
+[dependencies]
+time = "0.1"
+url = "1.5.1"
